@@ -15,13 +15,10 @@ Welcome to my GitHub repository! Here you'll find my practical workshops (Class 
   
 ## Portfolios
 
-### [Portfolio Part 1](https://github.com/MQ-COMP2200-COMP6200/portfolio-part-1-Lakshya3199)
-
-### [Portfolio Part 2](https://github.com/MQ-COMP2200-COMP6200/portfolio-part-2-Lakshya3199)
-
-### [Portfolio Part 3](https://github.com/MQ-COMP2200-COMP6200/portfolio-part-3-Lakshya3199)
-
-### [Portfolio Part 4](https://github.com/MQ-COMP2200-COMP6200/portfolio-part-4-Lakshya3199)
+- [Portfolio Part 1](https://github.com/MQ-COMP2200-COMP6200/portfolio-part-1-Lakshya3199)
+- [Portfolio Part 2](https://github.com/MQ-COMP2200-COMP6200/portfolio-part-2-Lakshya3199)
+- [Portfolio Part 3](https://github.com/MQ-COMP2200-COMP6200/portfolio-part-3-Lakshya3199)
+- [Portfolio Part 4](https://github.com/MQ-COMP2200-COMP6200/portfolio-part-4-Lakshya3199)
 
 ## About Me
 
