@@ -4,21 +4,21 @@ Welcome to my GitHub repository! Here you'll find my practical workshops (Class 
 
 ## [Practical Workshops](https://github.com/MQ-COMP2200-COMP6200/practical-workshops-Lakshya3199)
 
-- [Workshop Week 1.ipynb](https://github.com/MQ-COMP2200-COMP6200/practical-workshops-Lakshya3199/blob/4a608e02e171c7d0bcb526a8ec572f5fe97e7e97/Workshop%20Week%201.ipynb)
-- [Workshop Week 2.ipynb](https://github.com/MQ-COMP2200-COMP6200/practical-workshops-Lakshya3199/blob/4a608e02e171c7d0bcb526a8ec572f5fe97e7e97/Workshop%20Week%202.ipynb)
-- [Workshop Week 3.ipynb](https://github.com/MQ-COMP2200-COMP6200/practical-workshops-Lakshya3199/blob/4a608e02e171c7d0bcb526a8ec572f5fe97e7e97/Workshop%20Week%203.ipynb)
-- [Workshop Week 5.ipynb](https://github.com/MQ-COMP2200-COMP6200/practical-workshops-Lakshya3199/blob/4a608e02e171c7d0bcb526a8ec572f5fe97e7e97/Workshop%20Week%205.ipynb)
-- [Workshop Week 6.ipynb](https://github.com/MQ-COMP2200-COMP6200/practical-workshops-Lakshya3199/blob/4a608e02e171c7d0bcb526a8ec572f5fe97e7e97/Workshop%20Week%206.ipynb)
-- [Workshop Week 7.ipynb](https://github.com/MQ-COMP2200-COMP6200/practical-workshops-Lakshya3199/blob/4a608e02e171c7d0bcb526a8ec572f5fe97e7e97/Workshop%20Week%207.ipynb)
-- [Workshop Week 9.ipynb](https://github.com/MQ-COMP2200-COMP6200/practical-workshops-Lakshya3199/blob/4a608e02e171c7d0bcb526a8ec572f5fe97e7e97/Workshop%20Week%209.ipynb)
+- [Workshop Week 1.ipynb](https://github.com/MQ-COMP2200-COMP6200/practical-workshops-Lakshya3199/blob/4a608e02e171c7d0bcb526a8ec572f5fe97e7e97/Workshop%20Week%201.ipynb): Python Basics
+- [Workshop Week 2.ipynb](https://github.com/MQ-COMP2200-COMP6200/practical-workshops-Lakshya3199/blob/4a608e02e171c7d0bcb526a8ec572f5fe97e7e97/Workshop%20Week%202.ipynb): Markdown Language and Pandas Dataframe
+- [Workshop Week 3.ipynb](https://github.com/MQ-COMP2200-COMP6200/practical-workshops-Lakshya3199/blob/4a608e02e171c7d0bcb526a8ec572f5fe97e7e97/Workshop%20Week%203.ipynb): Exploring datasets to understand Pandas syntax for Basic Data Analysis and Data cleansing
+- [Workshop Week 5.ipynb](https://github.com/MQ-COMP2200-COMP6200/practical-workshops-Lakshya3199/blob/4a608e02e171c7d0bcb526a8ec572f5fe97e7e97/Workshop%20Week%205.ipynb): Univariate and Multivariate Data Analysis and Linear Regression algorithm
+- [Workshop Week 6.ipynb](https://github.com/MQ-COMP2200-COMP6200/practical-workshops-Lakshya3199/blob/4a608e02e171c7d0bcb526a8ec572f5fe97e7e97/Workshop%20Week%206.ipynb): Logistic Regression, Recursive Feature Elimination
+- [Workshop Week 7.ipynb](https://github.com/MQ-COMP2200-COMP6200/practical-workshops-Lakshya3199/blob/4a608e02e171c7d0bcb526a8ec572f5fe97e7e97/Workshop%20Week%207.ipynb): Clustering and Text Analysis
+- [Workshop Week 9.ipynb](https://github.com/MQ-COMP2200-COMP6200/practical-workshops-Lakshya3199/blob/4a608e02e171c7d0bcb526a8ec572f5fe97e7e97/Workshop%20Week%209.ipynb): KNN Classifier and Naive Bayes Classifier
 
   
 ## Portfolios
 
-- [Portfolio Part 1](https://github.com/MQ-COMP2200-COMP6200/portfolio-part-1-Lakshya3199)
-- [Portfolio Part 2](https://github.com/MQ-COMP2200-COMP6200/portfolio-part-2-Lakshya3199)
-- [Portfolio Part 3](https://github.com/MQ-COMP2200-COMP6200/portfolio-part-3-Lakshya3199)
-- [Portfolio Part 4](https://github.com/MQ-COMP2200-COMP6200/portfolio-part-4-Lakshya3199)
+- [Portfolio Part 1](https://github.com/MQ-COMP2200-COMP6200/portfolio-part-1-Lakshya3199): Data Exploration and cleansing on E-commerce Dataset
+- [Portfolio Part 2](https://github.com/MQ-COMP2200-COMP6200/portfolio-part-2-Lakshya3199): Linear Regression Modeling on the Cleaned E-commerce Dataset to predict ratings
+- [Portfolio Part 3](https://github.com/MQ-COMP2200-COMP6200/portfolio-part-3-Lakshya3199): Logistic Regression and KNN clustering on mobile phone prices to predict Phone prices using most correlated features
+- [Portfolio Part 4](https://github.com/MQ-COMP2200-COMP6200/portfolio-part-4-Lakshya3199): Linear Regression Modeling and KNN Classification on Medical Insurance Data to predict the cost on Insurance based on various Factors
 
 ## About Me
 
