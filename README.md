@@ -4,7 +4,7 @@ Welcome to my GitHub repository! Here you'll find my practical workshops (Class 
 
 ## Practical Workshops
 
-- [Workshop Week 1.ipynb](./practical-workshops-Lakshya3199/Workshop%20Week%201.ipynb)
+- [Workshop Week 1.ipynb](Workshop Week 1.ipynb)
 - [Workshop Week 2.ipynb](./practical-workshops-Lakshya3199/Workshop%20Week%202.ipynb)
 - [Workshop Week 3.ipynb](./practical-workshops-Lakshya3199/Workshop%20Week%203.ipynb)
 - [Workshop Week 5.ipynb](./practical-workshops-Lakshya3199/Workshop%20Week%205.ipynb)
