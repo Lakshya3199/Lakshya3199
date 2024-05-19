@@ -11,7 +11,7 @@ Welcome to my GitHub repository! Here you'll find my practical workshops (Class 
 - [Workshop Week 6.ipynb](https://github.com/MQ-COMP2200-COMP6200/practical-workshops-Lakshya3199/blob/4a608e02e171c7d0bcb526a8ec572f5fe97e7e97/Workshop%20Week%206.ipynb): Logistic Regression, Recursive Feature Elimination.
 - [Workshop Week 7.ipynb](https://github.com/MQ-COMP2200-COMP6200/practical-workshops-Lakshya3199/blob/4a608e02e171c7d0bcb526a8ec572f5fe97e7e97/Workshop%20Week%207.ipynb): Clustering and Text Analysis.
 - [Workshop Week 9.ipynb](https://github.com/MQ-COMP2200-COMP6200/practical-workshops-Lakshya3199/blob/4a608e02e171c7d0bcb526a8ec572f5fe97e7e97/Workshop%20Week%209.ipynb): KNN Classifier and Naive Bayes Classifier.
-
+- [Workshop Week 11.ipynb](https://github.com/MQ-COMP2200-COMP6200/practical-workshops-Lakshya3199/blob/2cf4b39ac1f6328137be5760437b69497acbda33/Practical-Week-11.ipynb): Artificial Neural Network.
   
 ## Portfolios
 
